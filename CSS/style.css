@@ -1,0 +1,76 @@
+/*
+color
+darkblue- #161840
+blue - #30348C
+light - #898DD9
+white - #F0F0F2
+*/
+
+
+
+
+.Container-fluid {
+  padding: 3% 15%;
+}
+
+.selection {
+  text-align: center;
+  color: #898DD9;
+  font-family: 'Nunito', sans-serif;
+}
+
+.unselected {
+  opacity: 0.4;
+}
+.unselected:hover {
+  color: #30348C;
+  opacity: 1;
+}
+
+.selected {
+  color: #30348C;
+}
+
+.selected:hover {
+    color: #898DD9;
+}
+
+.mid{
+  text-align: left;
+  color: black;
+  font-family: 'Nunito', sans-serif;
+  padding: 7% 15% 7% 15%
+}
+
+.img {
+
+  width: 100%;
+
+
+}
+
+
+.imgAlign{
+padding-bottom: 20%;
+
+
+}
+
+.cardInfo {
+  padding-bottom: 5%;
+}
+
+.rowInfo {
+  padding-top: 3%;
+}
+
+
+.bottom{
+  padding: 3% 15%;
+}
+
+
+.buttonPay{
+  text-align: right;
+
+}
